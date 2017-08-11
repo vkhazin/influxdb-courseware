@@ -1,5 +1,4 @@
-# Course: TICK
-## Telegraf, InfluxDb, Chronograf & Kapacitor
+# Telegraf, InfluxDb, Chronograf & Kapacitor
 
 <p align="right"><i><a href="https://www.linkedin.com/in/vkhazin" target="_blank">by Vlad Khazin</a></i></p>
 * Course materials can be accessed [online1](https://vkhazin.gitbooks.io/tick-courseware/) or [online2](https://tick-courseware.netlify.com/)
