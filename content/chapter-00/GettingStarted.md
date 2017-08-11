@@ -9,6 +9,6 @@
 * Take a moment to register at GitHub.com - you can clone the course repo and make your own comments throughout the course
 * Select <a href="https://github.com/vkhazin/tick-courseware" target="_blank">repository url</a> and then 'fork' link to create a repo for yourself 
 * Alternatively you are welcome to use any other method to comment and to take notes
-* You will be using your own laptop and sandbox virtual machine to setup, to configure and to operate Elastic.co products
+* You will be using your own laptop and sandbox virtual machine to setup, to configure and to operate <a href="https://www.influxdata.com/time-series-pla>https://www.influxdata.com/time-series-platform/" targtet="_blank">Time Series Platform</a>
 
 //TODO: Verify urls and update survey monkey url
