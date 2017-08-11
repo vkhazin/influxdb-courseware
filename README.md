@@ -30,7 +30,7 @@
 
 * Recent administrative and troubleshooting experience on Linux OS
 
-* Scripting and/or programming hands-on recent experience
+* Scripting and/or programming recent experience
 
 ## Outline ##
 
