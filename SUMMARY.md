@@ -11,6 +11,9 @@
 * [About Participants](./content/chapter-00/AboutParticipants.md)
 * [Logistics](./content/chapter-00/Logistics.md)
 
+## Chapter 1: Introduction to InfluxDb
+* [Introduction](./content/chapter-01/Intro.md)
+
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)
 * [Thank you!](./content/chapter-10/ThankYou.md)
