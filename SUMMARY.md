@@ -13,6 +13,8 @@
 
 ## Chapter 1: Introduction to InfluxDb
 * [Introduction](./content/chapter-01/Intro.md)
+* [Terminology](./content/chapter-01/Terminology-1.md)
+* [Terminology Cont'd](./content/chapter-01/Terminology-2.md)
 
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)
