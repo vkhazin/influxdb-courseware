@@ -15,6 +15,8 @@
 * [Introduction](./content/chapter-01/Intro.md)
 * [Terminology](./content/chapter-01/Terminology-1.md)
 * [Terminology Cont'd](./content/chapter-01/Terminology-2.md)
+* [Labs Setup](./content/chapter-01/LabsSetup.md)
+* [InfluxDb Setup Lab](./content/chapter-01/InfluxDbSetupLab.md)
 
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)

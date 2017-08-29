@@ -6,4 +6,4 @@
 * **Series:** definition for Measurement, Retention Policy, and Tag Set
 * **Server:** physical server, virtual machine, or a container running InfluxDb process
 * **Node:** InfluxDb process running on a server, one process per server
-* **Cluster:** proprietary (closed source) clustering functionality that allows for the fault-tolerance and scalability of the database and and the stream-processor
+* **Cluster:** proprietary (closed source) clustering functionality to support fault-tolerance and scalability of the database and the stream-processor
