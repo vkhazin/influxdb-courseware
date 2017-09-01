@@ -50,7 +50,7 @@ use fliesbees
 ```
 insert observations,location=1,scientist=langstroth butterflies=12,honeybees=23 1439856000
 ```
-* For writes timestamp uses nanosecond-precision Unix time, not milliseconds and not seconds
+* For writes timestamp uses nanosecond-precision Unix time, not milliseconds and not seconds, <a href="https://repl.it/Kb8P/3" target="_blank">here is a converter</a>
 * Retrieving data:
 ```
 select * from observations
@@ -67,4 +67,10 @@ select * from observations where honeybees=23
 ```
 delete * from observations
 ```
-* Type ```help``` inside influx cli to find more command including a reference to <a href="https://docs.influxdata.com/influxdb/v1.3/query_language/spec/" target="_blank">InfluxQL Reference</a> 
+* Type ```help``` inside influx cli to find more command including a reference to <a href="https://docs.influxdata.com/influxdb/v1.3/query_language/spec/" target="_blank">InfluxQL Reference</a>
+* How do we:
+  * List all databases
+  * List of measurements in a database
+  * List fields keys
+  * List tag keys
+* <a href="https://docs.influxdata.com/influxdb/v1.3/query_language/schema_exploration/" target="_blank">Documentation for schema exploration</a>
