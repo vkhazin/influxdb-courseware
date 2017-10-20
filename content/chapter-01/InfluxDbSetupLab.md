@@ -49,6 +49,7 @@ use fliesbees
 * influx cli syntax:
 ```
 insert observations,location=1,scientist=langstroth butterflies=12,honeybees=23 1439856000
+insert observations,location=2,scientist=perpetua butterflies=12,honeybees=23 1439856000
 ```
 * For writes timestamp uses nanosecond-precision Unix time, not milliseconds and not seconds, <a href="https://repl.it/Kb8P/3" target="_blank">here is a converter</a>
 * Retrieving data:
