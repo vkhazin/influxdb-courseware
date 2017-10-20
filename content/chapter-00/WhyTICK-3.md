@@ -1,10 +1,6 @@
-# Why TICK #
+# Why TICK cont'd
 
 
-* Specialized and <a href="https://db-engines.com/en/ranking/time+series+dbms" target="_blank">fastest growing</a> time-series-database stack:
-![db-engine trend](../../media/db-engine-ranking.png)
-* Overall popularity trend with time-series-databases:
-![time-series-db-trend trend](../../media/db-engine-ranking.png)
 * With InfluxDb you don’t have to define schemas upfront
 * Multi-tag, multi-field, and fast aggregation allow flexible data collection and analysis
 * Sql-like syntax for data querying
