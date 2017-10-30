@@ -23,9 +23,17 @@
 * [InfluxQl vs. Sql](./content/chapter-01/InfluxQl.md)
 * [Summary](./content/chapter-01/Summary.md)
 
-## Chapter 2: Syntax
+## Chapter 2: InfluxDb Internals
 
 * [Introduction](./content/chapter-02/Intro.md)
+* [Architecture](./content/chapter-02/Architecure.md)
+* [Storage](./content/chapter-02/Storage.md)
+* [Design Decisions](./content/chapter-02/DesignDecisions.md)
+* [Shards](./content/chapter-02/Shards.md)
+* [Retention Policy](./content/chapter-02/RetentionPolicy.md)
+
+* [Summary](./content/chapter-01/Summary.md)
+
 * [Http Api](./content/chapter-01/HttpApi.md)
 
 ## Chapter 10: Course Summary ##
