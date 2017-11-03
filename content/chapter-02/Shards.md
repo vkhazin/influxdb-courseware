@@ -5,6 +5,7 @@
 * InfluxDB stores data in shard groups organized by retention policy to store data by time range
 * Length of that time interval is shard group duration for auto-purge purposes  
 * Default shard group duration based on retention policy:
+
 | RP Duration | Shard Group Duration |
 | --- | --- |
 | < 2 days | 1 hour |
