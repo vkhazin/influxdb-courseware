@@ -31,10 +31,16 @@
 * [Shards](./content/chapter-02/Shards.md)
 * [Retention Policy](./content/chapter-02/RetentionPolicy.md)
 * [RP Lab](./content/chapter-02/RetentionPolicyLab.md)
-* [Summary](./content/chapter-01/Summary.md)
+* [Continuous Query](./content/chapter-02/ContinuousQuery.md)
+* [CQ Lab](./content/chapter-02/ContinuousQueryLab.md)
+* [Clustering](./content/chapter-02/Clustering.md)
+* [Summary](./content/chapter-02/Summary.md)
 
-
-* [Http Api](./content/chapter-01/HttpApi.md)
+## Chapter 3: Writing Data
+* [Introduction](./content/chapter-03/Intro.md)
+* [Http Api](./content/chapter-03/HttpApi.md)
+* [Http Api & RP](./content/chapter-03/HttpApiRP.md)
+* [Summary](./content/chapter-03/Summary.md)
 
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)
