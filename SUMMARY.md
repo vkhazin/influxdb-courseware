@@ -31,6 +31,7 @@
 * [Shards](./content/chapter-02/Shards.md)
 * [Retention Policy](./content/chapter-02/RetentionPolicy.md)
 * [RP Lab](./content/chapter-02/RetentionPolicyLab.md)
+* [Sample Data](./content/chapter-02/Smaple Data.md)
 * [Continuous Query](./content/chapter-02/ContinuousQuery.md)
 * [CQ Lab](./content/chapter-02/ContinuousQueryLab.md)
 * [Clustering](./content/chapter-02/Clustering.md)
