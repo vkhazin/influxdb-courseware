@@ -36,7 +36,7 @@
 * Comparison to Sql
 * Schema Design
 * Storage Engine
-* Enterprise Edition Cluster
+* Enterprise Clustering
 
 ### Writing Data ###
 * Overview of alternatives

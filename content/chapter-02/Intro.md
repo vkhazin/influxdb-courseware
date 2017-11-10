@@ -6,3 +6,4 @@
 * Shards
 * Retention Policies
 * Continuous Queries
+* Clustering and other Enterprise Features
