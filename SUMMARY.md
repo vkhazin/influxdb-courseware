@@ -40,6 +40,8 @@
 ## Chapter 3: Writing Data
 * [Introduction](./content/chapter-03/Intro.md)
 * [Http Api](./content/chapter-03/HttpApi.md)
+* [Http Api - Cont'd](./content/chapter-03/HttpApi-Cont'd.md)
+
 * [Http Api & RP](./content/chapter-03/HttpApiRP.md)
 * [Summary](./content/chapter-03/Summary.md)
 
