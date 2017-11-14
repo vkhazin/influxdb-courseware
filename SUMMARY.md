@@ -31,20 +31,22 @@
 * [Shards](./content/chapter-02/Shards.md)
 * [Retention Policy](./content/chapter-02/RetentionPolicy.md)
 * [RP Lab](./content/chapter-02/RetentionPolicyLab.md)
-* [Sample Data](./content/chapter-02/Smaple Data.md)
+* [Sample Data](./content/chapter-02/SampleData.md)
 * [Continuous Query](./content/chapter-02/ContinuousQuery.md)
 * [CQ Lab](./content/chapter-02/ContinuousQueryLab.md)
 * [Clustering](./content/chapter-02/Clustering.md)
 * [Summary](./content/chapter-02/Summary.md)
 
-## Chapter 3: Writing Data
+## Chapter 3: Write Http Api
 * [Introduction](./content/chapter-03/Intro.md)
-* [Http Api](./content/chapter-03/HttpApi.md)
-* [Http Api - Cont'd](./content/chapter-03/HttpApi-Cont'd.md)
-
-* [Http Api & RP](./content/chapter-03/HttpApiRP.md)
+* [Write Http Api](./content/chapter-03/WriteHttpApi.md)
+* [Write Http Api - Cont'd](./content/chapter-03/WriteHttpApi-Cont'd.md)
+* [Write Http Api Lab](./content/chapter-03/WriteHttpApiLab.md)
 * [Summary](./content/chapter-03/Summary.md)
 
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)
 * [Thank you!](./content/chapter-10/ThankYou.md)
+
+## Extras
+* [Http Api & RP](./content/chapter-03/HttpApiRP.md)

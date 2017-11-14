@@ -1,5 +1,6 @@
 # Retention Policy Lab
 
+* Login into your sandbox instance
 * Launch InfluxDb cli: ```influx``` from terminal window
 * Drop existing database ```fliesbees```
 * In case you forgot the <a href="https://docs.influxdata.com/influxdb/v1.3/query_language/database_management/#delete-a-database-with-drop-database"  target="_blank">syntax</a>
