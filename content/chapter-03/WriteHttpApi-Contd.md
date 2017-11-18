@@ -1,4 +1,4 @@
-# Http Api - Cont'd
+# Write Http Api - Cont'd
 
 * InfluxDb gets away with three response code series:
 ```

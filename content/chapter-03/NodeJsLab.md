@@ -26,21 +26,28 @@ nano ./index.js
 ```
 * Copy-paste start of the program:
 ```
-const Influx = require('influx')
-const client = new Influx.InfluxDB({
-  host: 'localhost',
-  database: 'NOAA_water_database',
-  schema: [
-    {
-      measurement: 'h2o_feet',
-      fields: {
-        water_level: Influx.FieldType.FLOAT
-      },
-      tags: [
-        'location',
-        'level description'
-      ]
+client.writePoints([
+  {
+    measurement: 'response_times',
+    tags: { 
+      location: 'coyote_creek',
+      "level description": 'between 6 and 9 feet'
+    },
+    fields: {
+      water_level: 8.12
     }
-  ]
+  }
+]).catch(err => {
+  console.error(`Error saving data to InfluxDB! ${err.stack}`)
 });
 ```
+* Run the code:
+```
+nodejs ./index.js
+```
+* Confirm the new record has been inserted:
+```
+influx -database "NOAA_water_database" -execute "select * from h2o_feet order by time desc limit 1;"
+```
+* <a href="https://repl.it/@vkhazin/TimestampNanosecs" target="_blank">Timestamp converter</a>
+

@@ -39,8 +39,8 @@
 
 ## Chapter 3: Write Http Api
 * [Introduction](./content/chapter-03/Intro.md)
-* [Write Http Api](./content/chapter-03/WriteHttpApi.md)
-* [Write Http Api - Cont'd](./content/chapter-03/WriteHttpApi-Cont'd.md)
+* [Write Http Api Syntax](./content/chapter-03/WriteHttpApi.md)
+* [Write Http Api Syntax - Cont'd](./content/chapter-03/WriteHttpApi-Cont'd.md)
 * [Write Http Api Lab](./content/chapter-03/WriteHttpApiLab.md)
 * [Summary](./content/chapter-03/Summary.md)
 

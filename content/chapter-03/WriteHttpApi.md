@@ -1,4 +1,4 @@
-# Http Api
+# Write Http Api
 
 * InfluxDB uses HTTP solely as a convenient and widely supported data transfer protocol
 * Modern web APIs have settled on REST because it addresses a common need

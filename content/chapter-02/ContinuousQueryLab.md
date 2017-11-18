@@ -64,3 +64,4 @@ select * from h2o_feet_secondly limit 100
 ```
 * Continuous queries are not instantaneous, see <a href="https://github.com/influxdata/influxdb/issues/7337" target="_blank">github issue</a>
 * Continuous query logging can be enabled in /etc/influxdb/influxdb.conf
+* Continous queries have advanced <a href="https://docs.influxdata.com/influxdb/v1.3/query_language/continuous_queries/#advanced-syntax" target="_blank">resample option</a> to improve dealing with a bit late data arrival
