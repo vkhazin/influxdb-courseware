@@ -20,7 +20,8 @@
 * [Labs Setup](./content/chapter-01/LabsSetup.md)
 * [InfluxDb Setup Lab](./content/chapter-01/InfluxDbSetupLab.md)
 * [Line Protocol](./content/chapter-01/LineProtocol.md)
-* [InfluxQl vs. Sql](./content/chapter-01/InfluxQl.md)
+* [InfluxQl vs. Sql](./content/chapter-01/InfluxQl-1.md)
+* [InfluxQl vs. Sql - Cont'd](./content/chapter-01/InfluxQl-2.md)
 * [Summary](./content/chapter-01/Summary.md)
 
 ## Chapter 2: InfluxDb Internals
