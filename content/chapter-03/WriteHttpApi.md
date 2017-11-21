@@ -3,7 +3,13 @@
 * InfluxDB uses HTTP solely as a convenient and widely supported data transfer protocol
 * Modern web APIs have settled on REST because it addresses a common need
 * REST is the industry agreed style for organizing large numbers of endpoints
-* InfluxDB makes do with three API endpoints as a transfer method for InfluxQL
+* InfluxDB makes do with few API endpoints as a transfer method for InfluxQL:
+```
+/write
+/query
+/ping
+/debug/requests
+```
 * **InfluxDB API makes no attempt to be RESTful**
 * Sample request:
 ```

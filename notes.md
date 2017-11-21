@@ -1,5 +1,4 @@
 # CQ & RP
-* resample syntax in cq
 * query turns all tags into fields, to retain tags use group by
 * cq common issues with internal time buckets potentially conflicting with time where close
 * offset syntax in group by (1h, 15m) where 15 min is an offset

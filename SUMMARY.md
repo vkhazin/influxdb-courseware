@@ -43,7 +43,25 @@
 * [Write Http Api Syntax](./content/chapter-03/WriteHttpApi.md)
 * [Write Http Api Syntax - Cont'd](./content/chapter-03/WriteHttpApi-Cont'd.md)
 * [Write Http Api Lab](./content/chapter-03/WriteHttpApiLab.md)
+* [Node.Js Client](./content/chapter-03/Nodejs.md)
+* [Node.Js Lab](./content/chapter-03/NodejsLab.md)
 * [Summary](./content/chapter-03/Summary.md)
+
+## Chapter 4: Read Http Api
+* [Introduction](./content/chapter-04/Intro.md)
+* [Write Http Api Syntax](./content/chapter-04/ReadHttpApi.md)
+* [Write Http Api Lab](./content/chapter-04/ReadHttpApiLab.md)
+* [Node.Js Client](./content/chapter-04/Nodejs.md)
+* [Node.Js Lab](./content/chapter-04/NodejsLab.md)
+* [Summary](./content/chapter-04/Summary.md)
+
+## Chapter 5: Schema Design 
+* [Introduction](./content/chapter-04/Intro.md)
+* [General](./content/chapter-04/General.md)
+* [Quoting](./content/chapter-04/Quoting.md)
+* [Encouraged Design](./content/chapter-04/Encouraged.md)
+* [Discouraged Design](./content/chapter-04/Discouraged.md)
+* [Summary](./content/chapter-04/Summary.md)
 
 ## Chapter 10: Course Summary ##
 * [What have we learned](./content/chapter-10/Summary.md)
