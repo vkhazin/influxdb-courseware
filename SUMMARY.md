@@ -61,6 +61,7 @@
 * [Quoting](./content/chapter-04/Quoting.md)
 * [Encouraged Design](./content/chapter-04/Encouraged.md)
 * [Discouraged Design](./content/chapter-04/Discouraged.md)
+* [Schema Design Lab](./content/chapter-04/SchemaDesignLab.md)
 * [Summary](./content/chapter-04/Summary.md)
 
 ## Chapter 10: Course Summary ##
