@@ -22,6 +22,7 @@
 * Develop InfluxDb queries, continuous queries, and database schema in accordance with the best practices
 * Write to and Read data from InfluxDb using CLI and HTTP API
 * Learn data retention principles and down-sampling practices
+* Application and host metrics capture best practices
 * Configure Telegraf to collect and to process host metrics
 * Make use of Chronograf to create alerts based on InfluxDb data
 * Incorporate data streaming and batch processing with Kapacitator
@@ -83,6 +84,8 @@
 * Alert Management
 * ETL Jobs Monitoring
 * Database Management
+
+* replace with graphana
 
 ### Kapacitator ###
 * Data Processing Framework
