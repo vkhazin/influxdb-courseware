@@ -110,5 +110,3 @@
 
 **3 days?**
 **Cisco is using HAProxy for Micro Services**
-
-
