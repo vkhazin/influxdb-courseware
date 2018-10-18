@@ -106,4 +106,9 @@
 * Monitoring and troubleshooting
 * Backup and Restore
 
+**reduce coverage**
+
+**3 days?**
+**Cisco is using HAProxy for Micro Services**
+
 
