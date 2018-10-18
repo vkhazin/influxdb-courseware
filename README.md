@@ -86,7 +86,7 @@
 
 ### Kapacitator ###
 * Data Processing Framework
-* Steaming data
+* Streaming data
 * Batch data
 * Data transformation
 * Writing user defined functions
