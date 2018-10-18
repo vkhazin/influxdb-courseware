@@ -95,6 +95,9 @@
 * Writing user defined functions
 * Integration with external services
 
+**remove for Cisco**
+**replace with application and host metric best practices**
+
 ### Preparing for Production ###
 * Capacity planning
 * Hardware requirements
