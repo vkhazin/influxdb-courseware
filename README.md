@@ -85,7 +85,7 @@
 * ETL Jobs Monitoring
 * Database Management
 
-**replace with graphana for Cisco**
+**replace with grafana for Cisco**
 
 ### Kapacitator ###
 * Data Processing Framework
