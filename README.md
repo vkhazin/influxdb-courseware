@@ -18,7 +18,13 @@
 ## Course's Objectives ##
 
 * Bring TICK novices to the level where they would be comfortable with installing, configuring and using TICK stack
-* Setup, configure, and troubleshoot TICK products in collaborative and explorative environment through series of practical labs using a sandbox
+* Setup, configure and troubleshoot TICK products in a collaborative and explorative environment through a series of practical labs using a sandbox
+* Develop InfluxDb queries, continuous queries, and database schema in accordance with the best practices
+* Write to and Read data from InfluxDb using CLI and HTTP API
+* Learn data retention principles and down-sampling practices
+* Configure Telegraf to collect and to process host metrics
+* Make use of Chronograf to create alerts based on InfluxDb data
+* Incorporate data streaming and batch processing with Kapacitator
 
 ## Prerequisites ##
 
